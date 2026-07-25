@@ -1,7 +1,7 @@
 ### Bonjour, je suis Jules Turchi 
 
-🎓 Étudiant en 2ème année du cycle ingénieur **Mathématiques Appliquées** à **CY Tech** (Pau)
-🔍 En recherche d'un stage de 6 mois à partir de **février 2027** en Data Science / Machine Learning / Data Analysis
+🎓 Étudiant en 2ème année du cycle ingénieur **Mathématiques Appliquées** à **CY Tech** (Pau) <br>
+🔍 En recherche d'un stage de 6 mois à partir de **février 2027** en Data Science / Machine Learning / Data Analysis <br>
 🌱 Actuellement en train d'approfondir mes compétences en **Machine Learning** et **Deep Learning** 
 
 ---
