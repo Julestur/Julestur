@@ -22,8 +22,8 @@
 
 #### 🛠️ Compétences techniques
 
-**Langages** : Python · R · SQL · Java · C · JavaScript · PHP · HTML/CSS
-**Outils** : Git · 
+**Langages** : Python · R · SQL · Java · C · JavaScript · PHP · HTML/CSS <br>
+**Outils** : Git · <br>
 **Environnement** : Linux · Windows
 
 ---
